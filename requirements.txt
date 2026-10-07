@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+librosa
+soundfile
+torch
+transformers
+faster-whisper
